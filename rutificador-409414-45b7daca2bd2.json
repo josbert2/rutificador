@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rutificador-409414",
+  "private_key_id": "45b7daca2bd24ad6ec37c24815fc635a85d21744",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCc8RCUZKJl5VBT\nVjk2CYDZKEYMCE9V82IPsEXAqnwe8E9UWLNBbW+j1ybyb5mR6euHkPwq/LHwh9kK\nHHUZ0oXS1u366riGOrczlOZkAPrvvXe/J/PK0hL65d1JVKyxoKoqWGFlOvjRy3jz\npT+qYya6Wrzd9qF8HQPjEZL2/6iff6Emt6LeR4WyusUD625Z7ydmGdjVS0hRRvYf\nPRgYaTckbXiwr2jCXDaZT1sajs2Ssdy9ofCWo9fYHrzvSIgS8VhvHBsv2TJJ510V\n8Q98ulI2QIp9oPmMvsL0UQGPOfT8bAhPeDk9AX3z/lJKS239OhMaP1wKGfzz4DOF\nllA9hu7hAgMBAAECggEAELepAXWayunbXZUwsO3gOMGOfJeiA9DSIEOxmm1OnWkR\nujVcmtqSasxvTKHQpPda7GzoP5f9SFbgKrCPVLnVIXldjj3UfA/jFe6FgB+Om1z+\nVXFnCbLI7MrxgG8xmhY4KhyR+1uFx6s57hIrLvYy2OTze11bJEJe+KAVnJPtHVgr\nTSdxJqjJl9CqjeyB+Hib0IzXZCOvkqRgDhNPtTja2MXQpHh3xZWUaxAGOf0mkbYy\nNodUK2ErAl3v64gHzzbBxvlYkQIWGkAz+4PxXiK9bFV2WvwxOBnLnbj863LIFWNT\n/Oo53w0rge2ZSPKlD5GoYCuPeFxh2trYLYe5ExTM1QKBgQDSKmF9m3GK0hx5kA2C\nZNqygO3y9sO5Gx3jV7OOZkbtaivrl13cTYfAK1SDO048M9n2dudR1jHGQihJDKjK\nGidGC21ptcV2+R38PMkzHoZVQ0ZG19IBu08MmnP1diNXtOLkXtvk6wOejwAksSDi\nSJCvNd1nESMJPNTIhma6k108jwKBgQC/Kyy7m7qBEjAfIeeuGB25UUDgOP51DZqw\n7L6umptyQzwJCUoPE5DN+e/LcKzo+4KkbOIy/IlzVLoeUJC7LQZSkszRJciD93tM\nGlKfme+mSv36uro9z+6tdSlDPDGC6COx2PyZNwAWzPzjBrR3A/RiZRmeSQXVH2vT\nIO1C58+1jwKBgQC3/P5IVnM6UuM20RPimaSULScjU0DZppGt27OH8KYbZp14rJUx\nLnavl79u+9ZsAgDJMiMkk94TcQuPmBOUivzi51Ir/0QV+dV0Y0rJA+oabsDxeDOT\n7IUxxW3K8FfUirkvsJPVfqE2iH5ZoO/m6hwwJ3nipzADAExQGMmKgURYpQKBgBZG\nHYwudOidCeZWuPvb63qwMPLvMRbKYv/CVeVaNkp18wTKhEqFaRXWzU3S7xKmW251\nEVYHfqxlbtohYPuuH1J3sE2eLWLS7xbK6l2WPgoOKtGP+CtDkve68vfWh55NFfue\n4K+pbOU7NSvumBBV8Z+VUArVT0ypwJJ0/7AP+m+ZAoGBAI3YgZRTtry6ydOA2T/H\nQPdbiIK+sU/1Xh9ZwJTcyflEK/gTAn0wch41MNcsENoP2s/xlacqejm8OVrFDY9V\nixezmQk1LpBLGcrRB5ay38CQQyfdmUitRRJJwCmvRCHkLLpUn+tBf6cvBv36zyCX\nk6nVuWeN85o8b/plSR0wh4fb\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheet-rutificador@rutificador-409414.iam.gserviceaccount.com",
+  "client_id": "100960536887233207241",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-rutificador%40rutificador-409414.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
